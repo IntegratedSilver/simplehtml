@@ -1,4 +1,10 @@
-body, img{
+body{
+    background-color: black;
     justify-items: center;
     text-align: center;
+    color: white;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
 }
